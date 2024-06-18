@@ -3,7 +3,7 @@
 -   GLD : 순수 금으로 구성되어있는 ETF
     <img src='./images/1.png'>
 
--   GDX : 순수 금으로 구성되어있는 ETF
+-   GDX : 금광을 소유하고있는 금 관련 주식을 가지고있는 ETF
     <img src='./images/2.png'>
 
 ---
